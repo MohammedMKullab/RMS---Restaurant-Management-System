@@ -19,7 +19,7 @@ A **full-stack** Restaurant Management System built using **MERN Stack** to stre
 - **Database:** MongoDB with Mongoose
 - **Authentication:** JWT, bcrypt.js
 - **Real-Time Updates:** Socket.io
-- **Deployment:** Vercel (Frontend), Render / DigitalOcean (Backend)
+- **Deployment:** Vercel (Frontend), Render / DigitalOcean (Backend) 
 
 ## 📂 Installation & Setup
 
