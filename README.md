@@ -1,7 +1,7 @@
 # 🍽️ Restaurant Management System (RMS)
 
 A **full-stack** Restaurant Management System built using **MERN Stack** to streamline restaurant operations, including menu management, order tracking, reservations, and payments.
-
+ 
 ## 🚀 Features
 - ✅ User Roles: Admin, Manager, Waiter, Chef, Customer
 - ✅ Menu Management: Add, edit, delete food items
