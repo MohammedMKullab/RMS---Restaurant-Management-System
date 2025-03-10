@@ -11,7 +11,7 @@ A **full-stack** Restaurant Management System built using **MERN Stack** to stre
 - ✅ Dashboard: Analytics & sales reports
 - ✅ Authentication: JWT-based login system
 - ✅ Live Updates: WebSocket (Socket.io) for real-time order tracking
-- ✅ Mobile-Friendly UI
+- ✅ Mobile-Friendly UI 
 
 ## 🛠️ Tech Stack
 - **Frontend:** React.js, Redux Toolkit, Tailwind CSS
